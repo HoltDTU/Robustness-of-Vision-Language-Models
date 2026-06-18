@@ -41,7 +41,6 @@ deterministically (`temperature=0.0`), and Qwen's "thinking mode" is disabled
 ```
 .
 ├── generate_pilot.py          # Generates monochrome graphs + pilot_manifest.csv
-├── generate_pilot_farve.py    # Generates color graphs (independent color RNG) + manifest
 ├── run_study.py               # Main experiment: queries the VLMs via CampusAI
 ├── run_study_br.py            # Color probe (blue/red nodes)
 ├── analyse.py                 # Statistical analysis + figures
@@ -52,8 +51,6 @@ deterministically (`temperature=0.0`), and Qwen's "thinking mode" is disabled
 ├── predictions.csv            # Model outputs, experiment 1
 ├── blue_red_predictions.csv   # Model outputs, experiment 2
 ├── png_grafer/                # Graph images (PNG)
-│
-├── API.env                    # CAMPUSAI_API_KEY (NOT committed do to safety reasons)
 ```
 
 ## Setup
