@@ -52,6 +52,7 @@ deterministically (`temperature=0.0`), and Qwen's "thinking mode" is disabled
 ├── blue_red_predictions(1).csv   # Model outputs, experiment 2
 ├── png_grafer/                # Graph images (PNG)
 ├── generate_pilot_uden_farver.py # Generates the 240 graphs used in the first experiment
+├── rq2_degradation_slope.py # Statistical analysis of slope degradation for RQ2
 ```
 
 ## Setup
