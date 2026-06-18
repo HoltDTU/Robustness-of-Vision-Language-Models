@@ -54,7 +54,6 @@ deterministically (`temperature=0.0`), and Qwen's "thinking mode" is disabled
 ├── png_grafer/                # Graph images (PNG)
 │
 ├── API.env                    # CAMPUSAI_API_KEY (NOT committed do to safety reasons)
-└── statistik_metoder.tex      # Methods section (LaTeX, Danish)
 ```
 
 ## Setup
