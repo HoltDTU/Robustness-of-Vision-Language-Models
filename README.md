@@ -49,8 +49,9 @@ deterministically (`temperature=0.0`), and Qwen's "thinking mode" is disabled
 ├── pilot_manifest.csv         # Ground truth, experiment 1
 ├── correct_graph_answers.csv  # Ground truth, experiment 2 (color)
 ├── predictions.csv            # Model outputs, experiment 1
-├── blue_red_predictions.csv   # Model outputs, experiment 2
+├── blue_red_predictions(1).csv   # Model outputs, experiment 2
 ├── png_grafer/                # Graph images (PNG)
+├── generate_pilot_uden_farver.py # Generates the 240 graphs used in the first experiment
 ```
 
 ## Setup
