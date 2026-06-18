@@ -22,7 +22,7 @@ are *not* numerically comparable and are reported as standalone sub-studies.
 |---|---|---|
 | Tasks | Count nodes, count edges, classify directed/undirected | Count blue nodes, count red nodes |
 | Complexity | 24 levels (1–24 nodes) | 24 levels (1–24 nodes) |
-| Graphs | 10 distinct graphs per level = 240 | same structure (cut at ~200 predictions/model) |
+| Graphs | 10 distinct graphs per level = 240 | 10 distinct graphs per level = 240 |
 | Manifest | `pilot_manifest.csv` | `correct_graph_answers.csv` |
 | Predictions | `predictions.csv` | `blue_red_predictions.csv` |
 
