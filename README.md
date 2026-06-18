@@ -9,8 +9,9 @@ additional node. A model can have low accuracy yet be robust (flat slope) — an
 
 ## Research question
 
-> How quickly does a VLM's reading of graph properties degrade as graph complexity increases, and
-> does the rate of degradation depend on the task type?
+> As graph complexity increases, how robustly do Vision Language Models read off
+> objective graph properties, where robustness is defined as the rate at which
+> accuracy degrades with complexity, rather than the absolute level of accuracy?
 
 ## Study design
 
